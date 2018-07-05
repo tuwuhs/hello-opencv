@@ -1,0 +1,6 @@
+hello-opencv
+include/*
+lib/*
+!include/.gitkeep
+!lib/.gitkeep
+
